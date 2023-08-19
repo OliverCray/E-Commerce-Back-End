@@ -81,7 +81,7 @@ source db/schema.sql
 quit;
 ```
 
-To see the database, type the following command in the terminal.
+To seed the database, type the following command in the terminal.
 
 ```sh
 npm run seed
